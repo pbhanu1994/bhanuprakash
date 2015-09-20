@@ -1,0 +1,1 @@
+[23-Jul-2015 15:00:49 UTC] WordPress database error Table 'bhanupra_myblog.blogsitecategories' doesn't exist for query SHOW FULL COLUMNS FROM `blogsitecategories` made by wp_upgrade, upgrade_network, maybe_convert_table_to_utf8mb4

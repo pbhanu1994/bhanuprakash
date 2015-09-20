@@ -1,0 +1,126 @@
+body,
+button,
+input,
+select,
+textarea {
+	color: $text-color;
+	font-family: 'Oxygen', 'Helvetica Neue', 'Arial', sans-serif;
+	font-weight: 300;
+	line-height: 1.5;
+}
+
+body {
+	-webkit-overflow-scrolling: touch; /* Corrects touch events not being passed to body if `-webkit-overflow-scrolling: touch;` is used on any other elements */
+	text-align: left;
+	margin: 0;
+	background-color: #E3E5E7;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+	font-weight: inherit;
+	clear: both;
+	margin: 0;
+}
+
+/* Links */
+a {
+	transition: color 0.4s ease;
+	color: $accent-color;
+	text-decoration: none;
+	border-bottom: 0 solid rgba(69, 69, 69, 0);
+	background-color: transparent;
+	
+	.no-touch &:hover {
+		color: $accent-color;
+	}
+	.no-touch &:active {
+		color: $accent-color-secondary;
+	}
+}
+
+.no-touch .site-description a,
+.no-touch .entry-content a,
+.no-touch .categories a,
+.no-touch .tags a,
+.no-touch .comments-link a,
+.no-touch .edit-link a,
+.no-touch .author-site a,
+.no-touch .theme-info a,
+.no-touch .site-colophon a {
+	transition: color 0.4s ease-in-out, border-bottom 0.4s ease-in-out;
+	&:hover {
+		border-bottom: 1px solid $accent-color;
+	}
+	&:active {
+		border-bottom: 1px solid $accent-color-secondary;
+	}
+}
+
+/* Copy */
+b,
+strong {
+	font-weight: bold;
+}
+
+dfn,
+cite,
+em, i {
+	font-style: italic;
+}
+
+blockquote {
+	margin: 0 1.5em;
+}
+
+blockquote:before, 
+blockquote:after,
+q:before,
+q:after {
+content: "";
+}
+
+blockquote, q {
+quotes: "" "";
+}
+
+address {
+	margin: 0 0 1.5em;
+}
+
+pre {
+	overflow: auto;
+	font-family: 'Courier 10 Pitch', Courier, monospace;
+	line-height: 1.6;
+	max-width: 100%;
+	padding: 1.6em;
+	margin-bottom: 1.6em;
+	background: #EEE;
+}
+
+code,
+kbd,
+tt,
+var {
+	font-family: Monaco, Consolas, 'Andale Mono', 'DejaVu Sans Mono', monospace;
+}
+
+abbr,
+acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+mark,
+ins {
+	text-decoration: none;
+	background: #FFF9C0;
+}
+
+small {
+	font-size: 75%;
+}
+
+big {
+	font-size: 125%;
+}

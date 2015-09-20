@@ -1,0 +1,565 @@
+# Copyright (C) 2015 Sami Keijonen
+# This file is distributed under the GNU General Public License v2 or later.
+# Translators:
+# Razvan Diaconu <razvan.diaconu@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Toivo Lite\n"
+"Report-Msgid-Bugs-To: https://foxland.fi/contact/\n"
+"POT-Creation-Date: 2015-05-11 18:55:18+00:00\n"
+"PO-Revision-Date: 2015-05-11 21:57+0200\n"
+"Last-Translator: Sami Keijonen <sami.keijonen@foxnet.fi>\n"
+"Language-Team: Romanian (Romania) (http://www.transifex.com/projects/p/toivo-lite/language/ro_RO/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Generator: Poedit 1.7.5\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Pagina respectivă nu poate fi găsită."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Se pare că nu există nimic la această adresă. Dorești să folosești linkurile de mai jos sau căsuța de search?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Cele mai folosite categorii"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Încearcă să cauți în arhivele lunare. %1$s"
+
+#: archive-jetpack-testimonial.php:48 index.php:35 search.php:28
+msgid "Previous page"
+msgstr "Pagina precedentă"
+
+#: archive-jetpack-testimonial.php:49 index.php:36 search.php:29
+msgid "Next page"
+msgstr "Pagina următoare"
+
+#: archive-jetpack-testimonial.php:50 content-audio.php:40 content-child-pages.php:40 content-jetpack-portfolio.php:40 content-page.php:36 content-video.php:40 content.php:40 image.php:38 index.php:37 search.php:30
+msgid "Page"
+msgstr "Pagină"
+
+#: area-testimonial.php:25
+msgid "Testimonials"
+msgstr "Testimoniale"
+
+#: comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul tău așteaptă să fie moderat."
+
+#: comments.php:29
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: content-aside.php:28 content-audio.php:47 content-link.php:50 content-status.php:30 content-video.php:47 content.php:47
+msgid "Posted in %s"
+msgstr "Postat în %s"
+
+#: content-aside.php:29 content-audio.php:48 content-jetpack-portfolio.php:48 content-link.php:51 content-status.php:31 content-video.php:48 content.php:48
+msgid "Tagged %s"
+msgstr "Taguri: %s"
+
+#. translators: %s: Name of current post
+#. Translators: The %s is the post title shown to screen readers.
+#: content-audio.php:33 content-child-pages.php:33 content-jetpack-portfolio.php:33 content-jetpack-testimonial.php:23 content-jetpack-testimonial.php:68 content-link.php:42 content-page.php:29 content-video.php:33 content.php:33 functions.php:272
+msgid "Read more %s"
+msgstr "Citește mai mult %s"
+
+#: content-audio.php:38 content-child-pages.php:38 content-jetpack-portfolio.php:38 content-page.php:34 content-video.php:38 content.php:38 image.php:36
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: content-jetpack-portfolio.php:47
+msgid "Portfolio in %s"
+msgstr "Portofoliu în %s"
+
+#: content-none.php:16
+msgid "Nothing Found"
+msgstr "Nimic nu a fost găsit"
+
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pregătit să publici primul articol? <a href=\"%1$s\">Începe de aici</a>."
+
+#: content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ne pare rău, căutarea nu are nici un rezultat. Vă rugăm să încercați din nou folosind cuvinte cheie diferite."
+
+#: content-none.php:35
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nu s-a putut găsi conținutul căutat. Probabil o căutare vă poate ajuta."
+
+#: footer.php:25
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:27
+msgid "Theme %1$s by %2$s"
+msgstr "Tema %1$s este realizată de %2$s"
+
+#: functions.php:121
+msgid "The main sidebar. It is displayed on the right or left side of the page."
+msgstr "Sidebarul principal. Este afișat pe partea stângă sau dreaptă a paginii."
+
+#: functions.php:131
+msgid "A sidebar located in the footer of the site."
+msgstr "Un sidebar aflat în partea de jos a paginii."
+
+#: functions.php:141
+msgid "A sidebar located in the Front Page Template."
+msgstr "Un sidebar aflat în templateul Prima Pagină."
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: header.php:33 menu-top.php:11 menu-top.php:12
+msgid "Top Menu"
+msgstr "Meniul de sus"
+
+#: header.php:37 menu-social.php:11 menu-social.php:12
+msgid "Social Menu"
+msgstr "Meniu Social"
+
+#: header.php:94
+msgid "Breadcrumbs"
+msgstr "Marcaje"
+
+#: inc/breadcrumb-trail.php:177
+msgid "Browse:"
+msgstr "Navighează:"
+
+#: inc/breadcrumb-trail.php:178
+msgid "Home"
+msgstr "Ecranul de start"
+
+#: inc/breadcrumb-trail.php:179
+msgid "404 Not Found"
+msgstr "Eroare 404 - Nu s-a găsit"
+
+#: inc/breadcrumb-trail.php:180
+msgid "Archives"
+msgstr "Arhive"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumb-trail.php:182 loop-meta.php:17
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Rezultatele căutării pentru &#8222;%s&#8221;"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumb-trail.php:184
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumb-trail.php:186
+msgid "Minute %s"
+msgstr "Minutul %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumb-trail.php:188
+msgid "Week %s"
+msgstr "Săptămâna %s"
+
+#: inc/customizer.php:24
+msgid "Theme Settings"
+msgstr "Setările temei"
+
+#: inc/customizer.php:35
+msgid "Layouts"
+msgstr "Aspect"
+
+#: inc/customizer.php:51
+msgid "1 Column"
+msgstr "O Coloană"
+
+#: inc/customizer.php:52
+msgid "2 Columns: Content / Sidebar"
+msgstr "Două Coloane: Conținut / Sidebar"
+
+#: inc/customizer.php:53
+msgid "2 Columns: Sidebar / Content"
+msgstr "Două Coloane: Sidebar / Conținut"
+
+#: inc/customizer.php:60
+msgid "Global Layout"
+msgstr "Aspect global"
+
+#: inc/customizer.php:74
+msgid "Front Page Settings"
+msgstr "Setările din Prima Pagină"
+
+#: inc/customizer.php:75
+msgid "Callout at the top. <a href=\"%s\" target=\"_blank\">Upgrade to Toivo (Pro)</a> for adding similar Callout section at the bottom."
+msgstr "Detaliu în partea de sus. <a href=\"%s\" target=\"_blank\">Fă upgrade la Toivo (Pro)</a> pentru a adaăuga un Detaliu similar în partea de jos."
+
+#: inc/customizer.php:115
+msgid "%s Callout title"
+msgstr "%s Titlu detaliu"
+
+#: inc/customizer.php:135
+msgid "%s Callout text"
+msgstr "%s Text detaliu"
+
+#: inc/customizer.php:155
+msgid "%s Callout URL"
+msgstr "%s URL detaliu"
+
+#: inc/customizer.php:175
+msgid "%s Callout URL text"
+msgstr "%s URL text detaliu"
+
+#: inc/customizer.php:201
+msgid "Hide testimonials"
+msgstr "Ascunde testimonialele"
+
+#: inc/customizer.php:202
+msgid "Check this if you want to hide testimonials from the Front Page Template."
+msgstr "Bifează opțiunea asta dacă dorești să ascunzi testimonialele pe Prima Pagină."
+
+#: inc/customizer.php:221
+msgid "Testimonials after featured area"
+msgstr "Testimoniale după conținutul reprezentativ"
+
+#: inc/customizer.php:222
+msgid "Check this if you want to move testimonials after Featured area in the Front Page Template."
+msgstr "Bifează această opțiune dacă vrei Testimonialele dupa Conținutul reprezentativ pe Prima Pagină."
+
+#. Template Name of the plugin/theme
+msgid "Child Pages"
+msgstr "Pagini copil"
+
+#: inc/customizer.php:242
+msgid "Blog Posts"
+msgstr "Posturi blog"
+
+#: inc/customizer.php:243
+msgid "Portfolios"
+msgstr "Portofolii"
+
+#: inc/customizer.php:250
+msgid "Featured Content"
+msgstr "Conținut reprezentativ"
+
+#: inc/customizer.php:251
+msgid "Select do you want to feature Child Pages, Blog Posts or Portfolios in Front Page."
+msgstr "Selectează dacă vrei să apară Pagini Copil, Posturi Blog sau Portofolii pe Prima Pagină."
+
+#: inc/customizer.php:271
+msgid "Callout Image"
+msgstr "Imagine detaliu"
+
+#: inc/customizer.php:272
+msgid "<a href=\"%s\" target=\"_blank\">Upgrade to Toivo (Pro)</a> for adding Callout Image."
+msgstr "<a href=\"%s\" target=\"_blank\">Fă upgrade la Toivo (Pro)</a> pentru a adăuga Imagine Detaliu."
+
+#: inc/customizer.php:285
+msgid "Background Settings"
+msgstr "Setări fundal"
+
+#: inc/customizer.php:304
+msgid "Header Background Color"
+msgstr "Culoare fundal pentru antet"
+
+#: inc/customizer.php:325
+msgid "Header Color Opacity."
+msgstr "Opacitate culoare din antet."
+
+#: inc/customizer.php:326
+msgid "Set Header Color opacity."
+msgstr "Setează opacitatea culorii din antet."
+
+#: inc/customizer.php:350
+msgid "Subsidiary Sidebar Background"
+msgstr "Fundal sidebar secundar"
+
+#: inc/customizer.php:351
+msgid "<a href=\"%s\" target=\"_blank\">Upgrade to Toivo (Pro)</a> for adding Subsidiary Sidebar Background Image and Color."
+msgstr "<a href=\"%s\" target=\"_blank\">Fă upgrade la Toivo (Pro)</a> pentru a adăuga imagine fundal și culoare pentru sidebar secundar."
+
+#: inc/customizer.php:367
+msgid "Portfolio Settings"
+msgstr "Setări Portofoliu"
+
+#: inc/customizer.php:388
+msgid "Portfolio Page Title"
+msgstr "Titlul paginii Portofoliu"
+
+#: inc/customizer.php:389
+msgid "<a href=\"%s\" target=\"_blank\">Upgrade to Toivo (Pro)</a> for changing Portfolio title and description."
+msgstr "<a href=\"%s\" target=\"_blank\">Fă upgrade la Toivo (Pro)</a> pentru a schimba titlul Portofoliului și descrierea."
+
+#: inc/customizer.php:404
+msgid "Footer Settings"
+msgstr "Setări Subsol"
+
+#: inc/customizer.php:425
+msgid "Enter footer text"
+msgstr "Introdu text Subsol"
+
+#: inc/customizer.php:426
+msgid "<a href=\"%s\" target=\"_blank\">Upgrade to Toivo (Pro)</a> for hiding or changing Footer text."
+msgstr "<a href=\"%s\" target=\"_blank\">Fă upgrade la Toivo (Pro)</a> pentru a ascunde sau a schimba textul din Subsol."
+
+#: inc/meta-boxes.php:22
+msgid "Header Callout text"
+msgstr "Text detaliu Antet"
+
+#: inc/meta-boxes.php:42
+msgid "Want to replace header text with Callout text and description in singular views? <a href=\"%s\">Upgrade to Toivo (Pro)</a>."
+msgstr "Vrei să înlocuiești textul din antet cu text detaliu și descriere?<a href=\"%s\">Fă upgrade la Toivo (Pro)</a>"
+
+#: inc/template-tags.php:21
+msgid "Comment navigation"
+msgstr "Navigare comentarii"
+
+#: inc/template-tags.php:24
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarii mai vechi"
+
+#: inc/template-tags.php:28
+msgid "Newer Comments &rarr;"
+msgstr "Comentarii mai noi &rarr;"
+
+#: loop-meta.php:18
+msgid "You are browsing the search results for &#8220;%s&#8221;"
+msgstr "Navighezi rezultatele căutării pentru &#8220;%s&#8221;"
+
+#: menu-primary.php:9
+msgid "Menu"
+msgstr "Meniu"
+
+#: menu-primary.php:11 menu-primary.php:12
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: sidebar-subsidiary.php:52
+msgid "Search"
+msgstr "Caută"
+
+#: single.php:17
+msgid "Next"
+msgstr "Următor"
+
+#: single.php:18
+msgid "Next:"
+msgstr "Următor"
+
+#: single.php:20
+msgid "Previous"
+msgstr "Precedent"
+
+#: single.php:21
+msgid "Previous:"
+msgstr "Precedent"
+
+#. Theme Name of the plugin/theme
+msgid "Toivo Lite"
+msgstr "Toivo Lite"
+
+#. Theme URI of the plugin/theme
+msgid "https://foxland.fi/downloads/toivo/"
+msgstr "https://foxland.fi/downloads/toivo/"
+
+#. Description of the plugin/theme
+msgid ""
+"Toivo Lite is perfect fit for business, personal or blog sites. It has beautiful Front Page template where you can show your important content, testimonials and Callout links. Toivo Lite is an accessible, translation-ready theme which supports plenty of features like Right to Left languages and Schema.org "
+"microdata."
+msgstr "Toivo Lite este o temă perfectă pentru afaceri, site-uri personale sau bloguri. Beneficiază de un template superb pentru Prima Pagină, unde puteți afișa cel mai important conținut, testimoniale sau linkuri speciale. Toivo Lite este o temă accesibilă, gata tradusă care beneficiază de o mulțime de opțiuni."
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen"
+
+#. Author URI of the plugin/theme
+msgid "https://foxland.fi"
+msgstr "https://foxland.fi"
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr "Prima Pagină"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "Fără Bară laterală"
+
+#: comment.php:29
+msgctxt "%1%s is for comment date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "O părere despre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s păreri despre &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s păreri despre &ldquo;%2$s&rdquo;"
+
+#: content-jetpack-testimonial.php:30
+msgctxt "dash before testimonial title"
+msgid "&ndash;"
+msgstr "&ndash;"
+
+#: content-link.php:20
+msgctxt "Arrow for link post format in right to left languages"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: content-link.php:22
+msgctxt "Arrow for link post format in left to right languages"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: footer.php:26
+msgctxt "Separator in site info."
+msgid "&middot;"
+msgstr "&middot;"
+
+#: functions.php:65
+msgctxt "nav menu location"
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:66
+msgctxt "nav menu location"
+msgid "Top"
+msgstr "Sus"
+
+#: functions.php:67
+msgctxt "nav menu location"
+msgid "Social"
+msgstr "Social"
+
+#: functions.php:120
+msgctxt "sidebar"
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:130
+msgctxt "sidebar"
+msgid "Subsidiary"
+msgstr "Secundar"
+
+#: functions.php:140
+msgctxt "sidebar"
+msgid "Front Page"
+msgstr "Prima pagină"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:167
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Raleway, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:173
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:293
+msgctxt "dash before menu item description"
+msgid "&ndash;"
+msgstr "&ndash;"
+
+#: inc/breadcrumb-trail.php:128
+msgctxt "Breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Marcaje"
+
+#: inc/breadcrumb-trail.php:723
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "G:i"
+
+#: inc/breadcrumb-trail.php:740
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumb-trail.php:757
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumb-trail.php:773 inc/breadcrumb-trail.php:802 inc/breadcrumb-trail.php:829 inc/breadcrumb-trail.php:856 inc/breadcrumb-trail.php:1043
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumb-trail.php:774 inc/breadcrumb-trail.php:830 inc/breadcrumb-trail.php:1047
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumb-trail.php:775 inc/breadcrumb-trail.php:1051
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumb-trail.php:803
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/customizer.php:98
+msgctxt "position of callout text"
+msgid "Top"
+msgstr "Sus"
+
+#: inc/customizer.php:100
+msgctxt "position of callout text"
+msgid "Bottom"
+msgstr "Jos"
+
+#: inc/template-tags.php:49
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publicat în"
+
+#: inc/template-tags.php:57
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autor"
+
+#. Translators: Separates tags, categories, etc. when displaying a post.
+#: inc/template-tags.php:126
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ", "
+
+#: sidebar-front-page.php:12
+msgctxt "Sidebar aria label"
+msgid "Front Page Sidebar"
+msgstr "Sidebarul din Prima Pagină"
+
+#: sidebar-primary.php:12
+msgctxt "Sidebar aria label"
+msgid "Primary Sidebar"
+msgstr "Bara laterală principală"
+
+#: sidebar-subsidiary.php:10
+msgctxt "Sidebar aria label"
+msgid "Subsidiary Sidebar"
+msgstr "Sidebarul Secundar"

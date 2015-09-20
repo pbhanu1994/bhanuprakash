@@ -1,0 +1,135 @@
+		#home{
+
+			background-image: url("../images/wall.jpg");
+
+			height: 100vh;
+
+			width: 100%;
+
+			background-size: cover;
+
+			background-repeat: no-repeat;
+
+			display: block;
+
+			background-attachment: scroll;
+
+		}
+
+		#about{
+
+			background-image: url("../images/bhanu1.jpg");
+
+			background-color: #F0EEEE;
+
+			height: 100vh;
+
+			width: 100%;
+
+			background-size: cover;
+
+			background-repeat: no-repeat;
+
+			display: block;
+
+			background-attachment: scroll;
+
+		}
+
+		#skills{
+
+			background-image: url("../images/skills.jpg");
+
+			background-color: #F0EEEE;
+
+			height: 100vh;
+
+			width: 100%;
+
+			background-size: cover;
+
+			background-repeat: no-repeat;
+
+			display: block;
+
+			background-attachment: scroll;
+
+		}
+
+		#hobbies{
+
+			background-image: url("../images/hobbies.jpg");
+
+			height: 100vh;
+
+			width: 100%;
+
+			background-size: cover;
+
+			background-repeat: no-repeat;
+
+			display: block;
+
+			background-attachment: scroll;
+
+		}
+
+		#blogs{
+
+			background-image: url("../images/blogs.jpg");
+
+			height: 100vh;
+
+			width: 100%;
+
+			background-size: cover;
+
+			background-repeat: no-repeat;
+
+			display: block;
+
+			background-attachment: scroll;
+
+		}
+		#tweet{
+
+			background-image: url("../images/blogs.jpg");
+
+			height: 100vh;
+
+			width: 100%;
+
+			background-size: cover;
+
+			background-repeat: no-repeat;
+
+			display: block;
+
+			background-attachment: scroll;
+
+		}
+
+		#projects{
+
+			background-image: url("../images/projects.jpg");
+
+			height: 100vh;
+
+			width: 100%;
+
+			background-size: cover;
+
+			background-repeat: no-repeat;
+
+			display: block;
+
+			background-attachment: scroll;
+
+		}
+
+		#bloghome{
+			border: 1px solid #fff;
+			border-radius: 50px;
+		}
+
+		

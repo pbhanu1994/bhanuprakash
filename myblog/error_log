@@ -1,0 +1,218 @@
+[09-Sep-2015 23:44:46 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 49152 bytes) in /home/bhanupra/public_html/myblog/wp-includes/post.php on line 3188
+[09-Sep-2015 23:44:46 UTC] PHP Stack trace:
+[09-Sep-2015 23:44:46 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[09-Sep-2015 23:44:46 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[09-Sep-2015 23:44:46 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[09-Sep-2015 23:44:46 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[09-Sep-2015 23:44:46 UTC] PHP Fatal error:  Out of memory (allocated 1835008) (tried to allocate 49152 bytes) in /home/bhanupra/public_html/myblog/wp-includes/pomo/mo.php on line 215
+[09-Sep-2015 23:44:46 UTC] PHP Stack trace:
+[09-Sep-2015 23:44:46 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[09-Sep-2015 23:44:46 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[09-Sep-2015 23:44:46 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[09-Sep-2015 23:44:46 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 41943040) (tried to allocate 12288 bytes) in /home/bhanupra/public_html/myblog/wp-admin/includes/plugin.php on line 1838
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-login.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require() /home/bhanupra/public_html/myblog/wp-login.php:12
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:353
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. Jetpack::init() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. Jetpack->__construct() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:298
+[16-Sep-2015 03:54:05 UTC] PHP   9. Jetpack_Network::init() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:433
+[16-Sep-2015 03:54:05 UTC] PHP  10. Jetpack_Network->__construct() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-network.php:137
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 41680896) (tried to allocate 12288 bytes) in /home/bhanupra/public_html/myblog/wp-admin/includes/plugin.php on line 196
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-login.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require() /home/bhanupra/public_html/myblog/wp-login.php:12
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:353
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. Jetpack::init() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. Jetpack->__construct() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:298
+[16-Sep-2015 03:54:05 UTC] PHP   9. Jetpack_Network::init() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:433
+[16-Sep-2015 03:54:05 UTC] PHP  10. Jetpack_Network->__construct() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-network.php:137
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 39321600) (tried to allocate 49152 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/modules/checkbox.php on line 87
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:237
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. wpcf7() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. wpcf7_load_modules() /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/settings.php:25
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 39321600) (tried to allocate 49152 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/modules/checkbox.php on line 87
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:237
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. wpcf7() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. wpcf7_load_modules() /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/settings.php:25
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 39321600) (tried to allocate 49152 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/modules/checkbox.php on line 87
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:237
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. wpcf7() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. wpcf7_load_modules() /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/settings.php:25
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 42205184) (tried to allocate 128 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php on line 23
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-login.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require() /home/bhanupra/public_html/myblog/wp-login.php:12
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:353
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. Jetpack::init() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. Jetpack->__construct() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:298
+[16-Sep-2015 03:54:05 UTC] PHP   9. Jetpack::is_active() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:520
+[16-Sep-2015 03:54:05 UTC] PHP  10. Jetpack_Data::get_access_token() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:968
+[16-Sep-2015 03:54:05 UTC] PHP  11. Jetpack_Options::get_option() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-data.php:11
+[16-Sep-2015 03:54:05 UTC] PHP  12. Jetpack_Options::is_valid() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php:107
+[16-Sep-2015 03:54:05 UTC] PHP  13. Jetpack_Options::get_option_names() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php:84
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 42205184) (tried to allocate 72 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php on line 23
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-login.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require() /home/bhanupra/public_html/myblog/wp-login.php:12
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:353
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. Jetpack::init() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. Jetpack->__construct() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:298
+[16-Sep-2015 03:54:05 UTC] PHP   9. Jetpack::is_active() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:520
+[16-Sep-2015 03:54:05 UTC] PHP  10. Jetpack_Data::get_access_token() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:968
+[16-Sep-2015 03:54:05 UTC] PHP  11. Jetpack_Options::get_option() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-data.php:11
+[16-Sep-2015 03:54:05 UTC] PHP  12. Jetpack_Options::is_valid() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php:107
+[16-Sep-2015 03:54:05 UTC] PHP  13. Jetpack_Options::get_option_names() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php:84
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 42205184) (tried to allocate 72 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php on line 18
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-login.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require() /home/bhanupra/public_html/myblog/wp-login.php:12
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:353
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. Jetpack::init() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. Jetpack->__construct() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:298
+[16-Sep-2015 03:54:05 UTC] PHP   9. Jetpack::is_active() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:520
+[16-Sep-2015 03:54:05 UTC] PHP  10. Jetpack_Data::get_access_token() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:968
+[16-Sep-2015 03:54:05 UTC] PHP  11. Jetpack_Options::get_option() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-data.php:11
+[16-Sep-2015 03:54:05 UTC] PHP  12. Jetpack_Options::is_valid() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php:107
+[16-Sep-2015 03:54:05 UTC] PHP  13. Jetpack_Options::get_option_names() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php:84
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 42205184) (tried to allocate 72 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php on line 18
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-login.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require() /home/bhanupra/public_html/myblog/wp-login.php:12
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:353
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. Jetpack::init() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. Jetpack->__construct() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:298
+[16-Sep-2015 03:54:05 UTC] PHP   9. Jetpack::is_active() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:520
+[16-Sep-2015 03:54:05 UTC] PHP  10. Jetpack_Data::get_access_token() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack.php:968
+[16-Sep-2015 03:54:05 UTC] PHP  11. Jetpack_Options::get_option() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-data.php:11
+[16-Sep-2015 03:54:05 UTC] PHP  12. Jetpack_Options::is_valid() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php:107
+[16-Sep-2015 03:54:05 UTC] PHP  13. Jetpack_Options::get_option_names() /home/bhanupra/public_html/myblog/wp-content/plugins/jetpack/class.jetpack-options.php:84
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 39059456) (tried to allocate 49152 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/modules/captcha.php on line 256
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:237
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. wpcf7() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. wpcf7_load_modules() /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/settings.php:25
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 39845888) (tried to allocate 1024 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/mailchimp-for-wp/vendor/composer/autoload_classmap.php on line 73
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:237
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. mc4wp_load_plugin() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. require_once() /home/bhanupra/public_html/myblog/wp-content/plugins/mailchimp-for-wp/mailchimp-for-wp.php:55
+[16-Sep-2015 03:54:05 UTC] PHP   9. ComposerAutoloaderInit4b2ab9300ae20bfc0336b6ee89e61fb5::getLoader() /home/bhanupra/public_html/myblog/wp-content/plugins/mailchimp-for-wp/vendor/autoload_52.php:7
+[16-Sep-2015 03:54:05 UTC] PHP  10. require() /home/bhanupra/public_html/myblog/wp-content/plugins/mailchimp-for-wp/vendor/composer/autoload_real_52.php:35
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 40370176) (tried to allocate 3072 bytes) in /home/bhanupra/public_html/myblog/wp-content/themes/destin-basic/functions.php on line 516
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP Fatal error:  Out of memory (allocated 39059456) (tried to allocate 49152 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/modules/captcha.php on line 256
+[16-Sep-2015 03:54:05 UTC] PHP Stack trace:
+[16-Sep-2015 03:54:05 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[16-Sep-2015 03:54:05 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[16-Sep-2015 03:54:05 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[16-Sep-2015 03:54:05 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[16-Sep-2015 03:54:05 UTC] PHP   5. do_action() /home/bhanupra/public_html/myblog/wp-settings.php:237
+[16-Sep-2015 03:54:05 UTC] PHP   6. call_user_func_array:{/home/bhanupra/public_html/myblog/wp-includes/plugin.php:496}() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   7. wpcf7() /home/bhanupra/public_html/myblog/wp-includes/plugin.php:496
+[16-Sep-2015 03:54:05 UTC] PHP   8. wpcf7_load_modules() /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/settings.php:25
+[17-Sep-2015 01:33:14 UTC] PHP Fatal error:  Out of memory (allocated 19136512) (tried to allocate 12288 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-core/deprecated/1.5.php on line 104
+[17-Sep-2015 01:33:14 UTC] PHP Stack trace:
+[17-Sep-2015 01:33:14 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[17-Sep-2015 01:33:14 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[17-Sep-2015 01:33:14 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[17-Sep-2015 01:33:14 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[17-Sep-2015 01:33:14 UTC] PHP   5. include_once() /home/bhanupra/public_html/myblog/wp-settings.php:180
+[17-Sep-2015 01:33:14 UTC] PHP   6. buddypress() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:666
+[17-Sep-2015 01:33:14 UTC] PHP   7. BuddyPress::instance() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:651
+[17-Sep-2015 01:33:14 UTC] PHP   8. BuddyPress->includes() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:145
+[17-Sep-2015 01:33:14 UTC] PHP Fatal error:  Out of memory (allocated 19136512) (tried to allocate 12288 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-core/deprecated/1.5.php on line 104
+[17-Sep-2015 01:33:14 UTC] PHP Stack trace:
+[17-Sep-2015 01:33:14 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[17-Sep-2015 01:33:14 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[17-Sep-2015 01:33:14 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[17-Sep-2015 01:33:14 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[17-Sep-2015 01:33:14 UTC] PHP   5. include_once() /home/bhanupra/public_html/myblog/wp-settings.php:180
+[17-Sep-2015 01:33:14 UTC] PHP   6. buddypress() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:666
+[17-Sep-2015 01:33:14 UTC] PHP   7. BuddyPress::instance() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:651
+[17-Sep-2015 01:33:14 UTC] PHP   8. BuddyPress->includes() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:145
+[17-Sep-2015 01:33:14 UTC] PHP Fatal error:  Out of memory (allocated 19136512) (tried to allocate 12288 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-core/deprecated/1.5.php on line 104
+[17-Sep-2015 01:33:14 UTC] PHP Stack trace:
+[17-Sep-2015 01:33:14 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[17-Sep-2015 01:33:14 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[17-Sep-2015 01:33:14 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[17-Sep-2015 01:33:14 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[17-Sep-2015 01:33:14 UTC] PHP   5. include_once() /home/bhanupra/public_html/myblog/wp-settings.php:180
+[17-Sep-2015 01:33:14 UTC] PHP   6. buddypress() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:666
+[17-Sep-2015 01:33:14 UTC] PHP   7. BuddyPress::instance() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:651
+[17-Sep-2015 01:33:14 UTC] PHP   8. BuddyPress->includes() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:145
+[17-Sep-2015 01:33:14 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 3072 bytes) in /home/bhanupra/public_html/myblog/wp-includes/user.php on line 561
+[17-Sep-2015 01:33:14 UTC] PHP Stack trace:
+[17-Sep-2015 01:33:14 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[17-Sep-2015 01:33:14 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[17-Sep-2015 01:33:14 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[17-Sep-2015 01:33:14 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[17-Sep-2015 01:33:14 UTC] PHP Fatal error:  Out of memory (allocated 19398656) (tried to allocate 12288 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-core/deprecated/2.1.php on line 321
+[17-Sep-2015 01:33:14 UTC] PHP Stack trace:
+[17-Sep-2015 01:33:14 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[17-Sep-2015 01:33:14 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[17-Sep-2015 01:33:14 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[17-Sep-2015 01:33:14 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[17-Sep-2015 01:33:14 UTC] PHP   5. include_once() /home/bhanupra/public_html/myblog/wp-settings.php:180
+[17-Sep-2015 01:33:14 UTC] PHP   6. buddypress() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:666
+[17-Sep-2015 01:33:14 UTC] PHP   7. BuddyPress::instance() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:651
+[17-Sep-2015 01:33:14 UTC] PHP   8. BuddyPress->includes() /home/bhanupra/public_html/myblog/wp-content/plugins/buddypress/bp-loader.php:145
+[17-Sep-2015 01:33:14 UTC] PHP Fatal error:  Out of memory (allocated 20185088) (tried to allocate 49152 bytes) in /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/includes/functions.php on line 80
+[17-Sep-2015 01:33:14 UTC] PHP Stack trace:
+[17-Sep-2015 01:33:14 UTC] PHP   1. {main}() /home/bhanupra/public_html/myblog/wp-cron.php:0
+[17-Sep-2015 01:33:14 UTC] PHP   2. require_once() /home/bhanupra/public_html/myblog/wp-cron.php:26
+[17-Sep-2015 01:33:14 UTC] PHP   3. require_once() /home/bhanupra/public_html/myblog/wp-load.php:37
+[17-Sep-2015 01:33:14 UTC] PHP   4. require_once() /home/bhanupra/public_html/myblog/wp-config.php:89
+[17-Sep-2015 01:33:14 UTC] PHP   5. include_once() /home/bhanupra/public_html/myblog/wp-settings.php:180
+[17-Sep-2015 01:33:14 UTC] PHP   6. require_once() /home/bhanupra/public_html/myblog/wp-content/plugins/contact-form-7/wp-contact-form-7.php:75

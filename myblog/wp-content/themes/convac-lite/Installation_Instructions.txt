@@ -1,0 +1,68 @@
+/*========= Convac Lite =========*/
+
+== Copyright and License ==
+Convac Lite WordPress Theme, Copyright 2014 SketchThemes.
+Convac Lite WordPress theme is distributed under the terms of the GNU GPL.
+
+/*========= Installation =========*/
+
+1. Upload the 'convac-lite` folder to the `/wp-content/themes/` directory
+Activation and Use
+1. Activate the Theme through the 'Themes' menu in WordPress
+2. See Appearance -> Convac Options to change theme options
+3. See Settings -> Reading -> Choose a Page for the Front page and Page for Posts page from drop-down.
+
+   "When you choose a Page for the Front page from drop-down, the contents of Selected page aren't displayed anywhere on the static front page."
+
+   "default your latest posts are show on front page if you are not select any page for front page."
+
+/*========= Theme Features and Documentation =========*/
+
+== WP Version ==
+
+It's requires at least version 3.4 to work properly.Please make sure your WP version is at least 3.4.
+
+
+== Theme Setup ==
+
+*General Settings:*
+1)Upload a favicon.
+2)Choose Theme Color.
+
+
+*Header Settings:*
+1) Header Static Image
+2) Change Logo.
+3) Mobile Menu Activate Width.
+4) Search Form In Header.
+
+*Author Settings:*
+1) Upload Author Image
+2) Enter Author Name
+3) Enter Author Discrbtion
+
+* Header Social Links Settings :*
+1) Add Social Profile links here.
+
+
+* Inner Page Section :*
+1) Upload Inner Page Header Image.
+
+*Blog Settings :*
+1)  Enter Blog Page Title.
+
+
+*Footer :*
+1) Enter Your Copyright Text(You can use HTML for links.)
+
+
+
+Plase install Contact Form 7 plugin and put shortcode in page content to show contact form on contact page.
+
+/*========= Page Templates =========*/
+
+1)Full Width Template
+
+/*========= Translation =========*/
+
+The Convac Lite is ready for translation. Translation files are in /languages.
